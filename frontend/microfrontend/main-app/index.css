@@ -1,0 +1,6 @@
+@import url('./vendor/normalize.css');
+@import url('./vendor/fonts.css');
+@import url('./styles/page/page.css');
+@import url('./styles/header/header.css');
+@import url('./styles/content/content.css');
+@import url('./styles/footer/footer.css');
